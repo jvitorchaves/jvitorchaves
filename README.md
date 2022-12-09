@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jvitorchaves
 - 👀 I’m interested in study
-- 🌱 I’m currently learning css and html
+- 🌱 I’m currently learning html, css and javascript
 - 💞️ I’m looking to collaborate on the life
 - 📫 How to reach me instagram.com/jvitorchaves
 
